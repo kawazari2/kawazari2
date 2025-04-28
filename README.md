@@ -1,0 +1,6 @@
+- 👋 Hi, I’m **Kawazari**!
+- 👀 I’m interested in: **development**
+- 🌱 I’m currently learning: **.NET, Nim and Rust**!
+- 💞️ I’m looking to collaborate on: **your very important projects. I'm a very trusted developper**!
+- 📫 How to reach me: **LinkedIn** 
+- ⚡ Fun fact: **I love Popa Cola, it's the best drink in the world!**
